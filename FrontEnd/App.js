@@ -4,9 +4,8 @@ import RegisterPage from './screens/RegisterPage'
 
 export default function App() {
   return (
-    <View>
-      <Text>App</Text>
-      <RegisterPage/>
-    </View>
+
+    <RegisterPage/>
+    
   )
 }
